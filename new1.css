@@ -1,0 +1,28 @@
+.section {
+    padding-bottom: 0;
+}
+.section {
+    padding: 70px 0;
+    position: relative;
+    background: #FFFFFF;
+}
+.container1{
+    flex-direction: column;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 100px 0;
+    
+}
+.card-body{
+    padding: 25px;
+}
+@media screen and (max-width:400px) {
+    .container1{
+        margin:0 10px ; 
+    }
+}
+
+.content-text{
+    margin: 15px auto;
+}
+
